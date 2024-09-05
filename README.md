@@ -1,2 +1,2 @@
 # CNN
-Implemented convolutional neural network (CNN) models with following specifications using TensorFlow for classifying the MNIST dataset.
+Implemented convolutional neural network (CNN) model using TensorFlow for classifying the MNIST dataset.
